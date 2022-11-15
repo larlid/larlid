@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T08:17:00.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="29jJIXyfsDy8ShL1eqYv" type="github"><diagram id="gjoisL-qDJL6WewDaihZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-15T08:25:16.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="K0GmUpf_-LWOnpA2HRON" version="20.5.3" type="github">
+  <diagram id="gjoisL-qDJL6WewDaihZ" name="Page-1">
+    <mxGraphModel dx="2039" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v2gGjdijNVfpb1-97QXe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2gGjdijNVfpb1-97QXe-1" target="v2gGjdijNVfpb1-97QXe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-1" value="kp-phone&lt;br&gt;ll-phone" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2gGjdijNVfpb1-97QXe-2" target="v2gGjdijNVfpb1-97QXe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2gGjdijNVfpb1-97QXe-2" target="v2gGjdijNVfpb1-97QXe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2gGjdijNVfpb1-97QXe-2" target="v2gGjdijNVfpb1-97QXe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-2" value="if router is running" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2gGjdijNVfpb1-97QXe-4" target="v2gGjdijNVfpb1-97QXe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-4" value="phones ! connected" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2gGjdijNVfpb1-97QXe-6" target="v2gGjdijNVfpb1-97QXe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-6" value="kp-phone&lt;br&gt;connected" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2gGjdijNVfpb1-97QXe-8" target="v2gGjdijNVfpb1-97QXe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-8" value="ll-phone&lt;br&gt;connected" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-10" value="turn on notifications for motion sensor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-12" value="normal state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2gGjdijNVfpb1-97QXe-14" value="Turn on camera power&lt;br&gt;Notifications on" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
